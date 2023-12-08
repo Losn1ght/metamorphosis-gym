@@ -22,4 +22,4 @@ A repository of our gym project for IM/WEBDEV that utilizes react, mysql, expres
 - cors
 - mysql2
 - express-session
-- jsonwebtokens
+- jsonwebtoken
